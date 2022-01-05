@@ -24,7 +24,7 @@ public class Formating {
 		System.out.println(String.format("%.2f", 3.42134234)); // 소수점 표현
 		
 		System.out.println(String.format("I eat %d apples" , 3));
-		System.out.printf("I eat %d apples" , 3);      // pritnf 를 사용하면 String format 적을 필요 X
+		System.out.printf("I eat %d apples" , 3);      // pritnf 를 사용하면 String format 적을 필요 없음
 		
 		
 	}
